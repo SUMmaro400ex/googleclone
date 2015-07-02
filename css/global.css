@@ -54,13 +54,13 @@ div#textsearch{
 }
 
 div#searchresultsarea{
-	height: 80px;
+	height: 70px;
 	width: 100%;
 	background-color: #FFFFFF;
 }
 
 ul {
-	padding-left: 125px;
+	padding-left: 100px;
 	border-bottom: solid gray 1px;
 }
 
