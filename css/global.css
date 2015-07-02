@@ -1,0 +1,95 @@
+body{
+	font-family: Arial;
+}
+img{
+	float: left;
+}
+
+#logo{
+	padding-left: 10px;
+}
+
+div#searchbar{
+
+	background-color: #F2F2F2;
+	margin-top: -8px;
+	margin-left: -8px;
+	margin-right: -8px;
+	height: 60px;
+	width: 100%;
+}
+
+div#textsearch{
+	position: absolute;
+	margin-left: 125px;
+	margin-top: 15px;
+	height: 30px;
+	width: 600px;
+	background-color: #FFFFFF;
+	border: 1px solid #D3D3D3;
+
+}
+
+#textsearch img{
+	position: absolute;
+	margin-top: 4px;
+	margin-left: 263px;
+	height: 25px;
+	width: 25px;
+}
+
+#searchbutton{
+	position: absolute;
+	margin-top: 14px;
+	margin-left: 615px;
+	height: 35px;
+	width: 60px;	
+}
+
+#textsearch p{
+	float:left;
+	width: 50%;
+	padding-left: 9px;
+	margin-top: 8px;
+}
+
+div#searchresultsarea{
+	height: 80px;
+	width: 100%;
+	background-color: #FFFFFF;
+}
+
+ul {
+	padding-left: 125px;
+	border-bottom: solid gray 1px;
+}
+
+li {
+	display: inline;
+}
+
+.top li a{
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	text-decoration: none;
+	color: gray;
+}
+
+li#web a{
+	font-weight: bold;
+	color: red;
+	border-bottom: solid red;
+	padding-bottom: 16px;
+}
+
+ul.lists {
+	list-style-type: none;
+	margin-bottom:10em;
+	/*margin-left: 8em;*/
+	margin-right: 27em;
+	font-family: Arial;
+
+}
+
