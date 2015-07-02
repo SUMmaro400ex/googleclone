@@ -87,9 +87,11 @@ li#web a{
 ul.lists {
 	list-style-type: none;
 	margin-bottom:10em;
-	/*margin-left: 8em;*/
 	margin-right: 27em;
 	font-family: Arial;
-
+}
+.lists li a{
+	text-decoration: none;
+	color: blue;
 }
 
